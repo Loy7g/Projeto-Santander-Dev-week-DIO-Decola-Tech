@@ -34,3 +34,4 @@ public class UserController {
         return ResponseEntity.created(location).body(userCreated);
     }
 }
+
